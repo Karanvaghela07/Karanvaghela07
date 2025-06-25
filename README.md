@@ -1,34 +1,111 @@
-<h1 align="center">Hi 👋, I'm Karan Vaghela</h1>
-<h3 align="center">🎓 Computer Science Undergraduate | Big Data Enthusiast | Full-Stack Developer | Data Analytics Learner Transforming ideas into scalable and intelligent digital solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">
+  Hello, I'm Karan Vaghela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+<!-- Centered 2-column layout -->
+<div align="center">
+<table>
+  <tr>
+    <!-- Left Side -->
+    <td width="60%" align="center" valign="top">
+      <h3>🎓 Final-year B.Tech CSE | Big Data Enthusiast | Full-Stack Developer | Data Analytics Learner</h3>
+      <p> Passionate about transforming raw data into scalable and intelligent digital solutions.</p>
+      <p>🚀 Exploring: Data Analytics | ETL & EDA | MEAN Stack | Cloud | CI/CD | Real-world Dashboards</p>
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=karanvaghela07&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" width="150" height="25"/>
+      <br>
+    </td>
+    <!-- Right Side (GIF) -->
+    <td width="40%" align="center" >
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanvaghela07&label=Profile%20views&color=0e75b6&style=flat" alt="karanvaghela07" /> </p>
+---
 
-- 🔭 I’m currently working on **A real-world Data Analytics project involving ETL, EDA, and interactive dashboards using Power BI & Tableau, and a MEAN stack web application for smart systems.**
+### 🚀 About Me
 
-- 🌱 I’m currently learning **Advanced Data Analytics with Python, Power BI, Tableau, and Full-Stack Web Development (MEAN Stack). Also diving into Cloud Computing and CI/CD workflows.**
+- 🔭 I’m currently working on a real-world **Data Analytics** project using **ETL, EDA, Power BI & Tableau**, and developing a **MEAN stack** smart systems web app.
+- 🌱 Learning **Advanced Analytics with Python**, **Tableau**, **Power BI**, and **Cloud + CI/CD** workflows.
+- 👨‍💻 Projects: [vaghelakaran.netlify.app](https://vaghelakaran.netlify.app)
+- 💬 Ask me about: **Data Cleaning | MongoDB | Angular | Git | Python for Analytics**
+- 📫 Reach me at: **vaghelakaran8599@gmail.com**
+- ⚡ Fun fact: I turn complex data into stories  with coffee ☕ and code 💻
 
-- 👨‍💻 All of my projects are available at [vaghelakaran.netlify.app](vaghelakaran.netlify.app)
+---
 
-- 💬 Ask me about **Data Cleaning | EDA | Dashboarding | MongoDB | Angular | Git & GitHub | Python for Analytics**
+### 🛠️ Languages & Technologies
 
-- 📫 How to reach me **vaghelakaran8599@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **I love simplifying complex data into beautiful, visual stories and I believe coffee + code can solve (almost) anything ☕**
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Programming</strong></td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><strong>Backend & DB</strong></td>
+      <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><strong>Tools</strong></td>
+      <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/></td>
+    </tr>
+  </tbody>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/karanvaghela07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/karanvaghela07" height="30" width="40" /></a>
-<a href="https://instagram.com/karanvaghela.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karanvaghela.07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vaghelakaran8599/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaghelakaran8599/" height="30" width="40" /></a>
+</div>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:vaghelakaran8599@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/karanvaghela07" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/karanvaghela07" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/karanvaghela.07" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanvaghela07&show_icons=true&locale=en&layout=compact" alt="karanvaghela07" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanvaghela07&show_icons=true&locale=en" alt="karanvaghela07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanvaghela07&" alt="karanvaghela07" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karanvaghela07&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanvaghela07&layout=compact&theme=radical" height="180"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=karanvaghela07&theme=radical" height="180"/>
+</div>
