@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanvaghela07&label=Profile%20views&color=0e75b6&style=flat" alt="karanvaghela07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanvaghela07" alt="karanvaghela07" /></a> </p>
-
 - 🔭 I’m currently working on **A real-world Data Analytics project involving ETL, EDA, and interactive dashboards using Power BI & Tableau, and a MEAN stack web application for smart systems.**
 
 - 🌱 I’m currently learning **Advanced Data Analytics with Python, Power BI, Tableau, and Full-Stack Web Development (MEAN Stack). Also diving into Cloud Computing and CI/CD workflows.**
