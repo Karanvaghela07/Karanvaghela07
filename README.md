@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://rishavchanda.io">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE1bTc0OXowamMweWJ6aWJnNTZxNThpNGs3emVncXk3dzkxNXIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000px"height="400px"/>
-  </a>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800px" height="300px"/>
 </p>
 
 
