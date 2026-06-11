@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: Karanvaghela07
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=ff6b35&color_dots=0d1117,1a1b2e,2d1b4e,6E40C9,ff6b35
+            dist/github-snake-dark.svg?color_snake=ff6b35&color_dots=0d1117,1a1b2e,2d1b4e,6E40C9,ff6b35
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
