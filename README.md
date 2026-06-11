@@ -217,9 +217,9 @@ Full-stack shipping with AI tools · MEAN stack · React + Supabase · LLM API i
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karanvaghela07/karanvaghela07/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karanvaghela07/karanvaghela07/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/karanvaghela07/karanvaghela07/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karanvaghela07/Karanvaghela07/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karanvaghela07/Karanvaghela07/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Karanvaghela07/Karanvaghela07/output/github-snake-dark.svg"/>
 </picture>
 
 ## 📈 Contribution Graph
