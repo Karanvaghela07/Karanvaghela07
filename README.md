@@ -1,19 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Karan%20Vaghela&fontSize=70&color=0:0f0c29,50:302b63,100:24243e&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Data%20Annotator%20%E2%86%92%20AI%20Product%20Builder%20%7C%20Ahmedabad%2C%20India&descSize=17&descAlignY=75&descColor=aaaaff"/>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="200px" style="object-fit:cover;"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Karan%20Vaghela&fontSize=65&color=0:0f0c29,50:302b63,100:24243e&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Vibe%20Coder%20%7C%20Ahmedabad%2C%20India&descSize=16&descAlignY=75&descColor=aaaaff"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Karan+Vaghela+%F0%9F%91%8B;Data+Annotator+%E2%86%92+AI+Product+Builder;Building+SpeakReady+%F0%9F%9A%80+from+%E2%82%B90;Vibe+Coder+%7C+Indie+Hacker+%7C+Gujarat+%F0%9F%A6%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions+📊;ETL+%7C+EDA+%7C+Power+BI+%7C+SQL+%7C+Tableau;Building+AI+products+with+zero+budget+🚀;Annotated+AI+training+data+across+5+domains;Open+to+Data+Analyst+%26+BA+roles)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://linkedin.com/in/karanvaghela07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vaghelakaran8599@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://kvaghela.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://github.com/karanvaghela07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://instagram.com/karanvaghela.07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=karanvaghela07&label=Profile+Views&color=6E40C9&style=for-the-badge"/>
 
 </div>
@@ -22,66 +24,43 @@
 
 ## `$ whoami`
 
-```typescript
-const karan = {
-  name        : "Karan Vaghela",
-  location    : "Ahmedabad, Gujarat 🇮🇳",
-  education   : "B.Tech CSE (Big Data Analytics) — Parul University",
-  currentRole : "Data Annotator @ Codvo (AI Training Pipelines)",
-  building    : "SpeakReady 🎙️ — AI English Interview Coach for Indian Tech Students",
-  techStack   : ["React", "Supabase", "Groq API", "Netlify", "Razorpay"],
-  annotated   : ["Surgical Videos", "Sports Detection", "Battery Segmentation", "ANPR"],
-  learning    : ["SQL", "Power BI", "Prompt Engineering", "LLM APIs"],
-  goal        : "Data Analyst  |  AI Trainer  |  Indie Hacker",
-  superpower  : "I turn annotation experience into AI product intuition ⚡",
-};
+```python
+karan = {
+    "name"         : "Karan Vaghela",
+    "location"     : "Ahmedabad, Gujarat 🇮🇳",
+    "education"    : "B.Tech CSE — Big Data Analytics @ Parul University",
+    "current_role" : "Data Annotator @ Codvo (AI Training Pipelines)",
+    "building"     : "SpeakReady 🎙️ — AI English Interview Coach for Indian Tech Students",
+    "core_skills"  : ["Data Analysis", "Business Analysis", "ETL & EDA", "Power BI", "SQL"],
+    "also_does"    : ["React", "Node.js", "MongoDB", "LLM APIs", "Groq", "Supabase"],
+    "annotated"    : ["Surgical Videos", "Sports Detection", "Battery Segmentation", "ANPR"],
+    "goal"         : "Data Analyst | Business Analyst | AI Trainer | Indie Hacker",
+    "philosophy"   : "I don't just analyze data — I build with it ⚡",
+}
 ```
 
 ---
 
-## 🚀 Currently Building
+## 📊 What I Do
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 🎙️ SpeakReady
-> AI-powered English interview coaching for Indian tech students with speaking anxiety.
-
-**The problem:** Brilliant students fail interviews because of English confidence — not skills.
-
-**What it does:**
-- 🤖 AI mock interview calls with real-time feedback
-- 📊 Fluency + grammar scoring per response
-- 🔁 Topic-wise practice library
-- 💳 Freemium → ₹199 → ₹499/mo tiers
-
-**Stack:** React • Supabase • Groq API • Razorpay • Netlify  
-**Budget:** ₹0 | **Timeline:** 6 weeks  
-**Status:** 🔨 Week 1 — Foundation
+### 📊 Data Analysis
+ETL pipelines · EDA · Data Cleaning · Python (Pandas, NumPy) · Statistical Analysis · Real-world dashboards from messy datasets
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
-<br/>
+### 📈 Business Analysis
+Requirement gathering · KPI definition · Stakeholder reporting · Power BI & Tableau dashboards · Translating business needs into data insights
 
-```
- ┌─────────────────────────┐
- │     SpeakReady MVP      │
- │ ─────────────────────── │
- │  Week 1 ████░░░░░░  20% │
- │                         │
- │  🎤  AI Voice Feedback  │
- │  📈  Fluency Scoring    │
- │  🗂️  Practice Library   │
- │  💰  Razorpay Payments  │
- │  🌐  Live on Netlify    │
- └─────────────────────────┘
-        Building in public.
-```
+</td>
+<td width="33%" align="center" valign="top">
 
-[![Status](https://img.shields.io/badge/🚧_Status-Building-FF6B35?style=for-the-badge)]()
-[![Budget](https://img.shields.io/badge/💰_Budget-₹0-00C853?style=for-the-badge)]()
+### 💻 Vibe Coding
+Full-stack shipping with AI tools · MEAN stack · React + Supabase · LLM API integration · Building products from zero to live with zero budget
 
 </td>
 </tr>
@@ -93,56 +72,98 @@ const karan = {
 
 <div align="center">
 
-**Languages & Core**
+**Data & Analytics**
 <br/>
-[![Skills](https://skillicons.dev/icons?i=python,js,java,html,css,md&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Frontend & Backend**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=react,angular,nodejs,express&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Databases & Cloud**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=mongodb,mysql,supabase,netlify&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Tools & Workflow**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-**Analytics & AI**
-<br/>
+[![Skills](https://skillicons.dev/icons?i=python,r&theme=dark)](https://skillicons.dev)
+&nbsp;
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+<br/>
+
+**Databases & Query**
+<br/>
+[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**Dev & Deployment**
+<br/>
+[![Skills](https://skillicons.dev/icons?i=react,nodejs,express,html,css,js,git,github,vscode,netlify&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+**AI & LLM Tools**
+<br/>
 ![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-6E40C9?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
 ---
 
-## 🤖 AI Annotation Experience
+## 🤖 AI Training Data Experience
 
-> Most devs write code that trains AI. I've *been* in the pipeline — annotating the raw material that makes models smart.
+> I've worked inside the AI pipeline — not just consuming AI, but building the datasets that train it.
 
 <div align="center">
 
-| Domain | Task | Impact |
+| Domain | Annotation Type | Use Case |
 |:---|:---|:---|
-| 🏀 **Sports AI** | Bounding boxes & player tracking (NBA/NFL) | Player detection models |
-| 🔬 **Medical AI** | Surgical instrument annotation in OR videos | Surgical assist systems |
-| 🔋 **Industrial AI** | Battery component segmentation (polygon) | Manufacturing QC models |
-| 🚗 **Traffic AI** | Number plate recognition annotation | ANPR systems |
-| 🖼️ **Computer Vision** | Multi-class labeling, keypoint, semantic segmentation | Vision pipelines |
+| 🏀 **Sports AI** | Bounding boxes · player tracking (NBA / NFL) | Player & ball detection models |
+| 🔬 **Medical AI** | Surgical instrument segmentation in OR videos | AI surgical assist systems |
+| 🔋 **Industrial AI** | Battery component polygon segmentation | Manufacturing QC automation |
+| 🚗 **Traffic AI** | Number plate detection & recognition | Automated ANPR systems |
+| 🖼️ **Computer Vision** | Multi-class labeling · keypoints · semantic masks | General vision model training |
 
 </div>
+
+---
+
+## 🚀 Currently Building — SpeakReady
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+
+> AI-powered English interview coaching for Indian tech students who lose jobs to speaking anxiety — not lack of skills.
+
+**Core features:**
+- 🤖 AI mock interview sessions with instant feedback
+- 📊 Fluency, grammar & confidence scoring
+- 🗂️ Domain-wise practice question library
+- 💳 Freemium · ₹199 · ₹499/mo pricing tiers
+
+**Stack:** React · Supabase · Groq API · Razorpay · Netlify  
+**Budget:** ₹0 &nbsp;|&nbsp; **Timeline:** 6 weeks
+
+</td>
+<td width="42%" valign="top" align="center">
+
+```
+ ┌──────────────────────────┐
+ │      SpeakReady MVP      │
+ │ ──────────────────────── │
+ │  Progress ████░░░░░  20% │
+ │                          │
+ │  🎤  AI Voice Sessions   │
+ │  📊  Real-time Scoring   │
+ │  🗂️  Question Library    │
+ │  💳  Razorpay Gateway    │
+ │  🌐  Netlify Deployment  │
+ └──────────────────────────┘
+```
+
+[![Status](https://img.shields.io/badge/Status-Building-FF6B35?style=for-the-badge)]()
+[![Budget](https://img.shields.io/badge/Budget-₹0-00C853?style=for-the-badge)]()
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -187,9 +208,53 @@ const karan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karanvaghela07&theme=tokyonight&no-frame=false&margin-w=8&column=4&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=karanvaghela07&theme=tokyonight&no-frame=false&margin-w=8&column=4"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+> ⚠️ **Setup required:** Go to your repo → Actions → Enable workflows → Run the `Generate Snake` action once. After that it auto-updates daily.
+
+Add this file to `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: karanvaghela07
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then paste this where you want the snake to appear:
+
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karanvaghela07/karanvaghela07/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karanvaghela07/karanvaghela07/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/karanvaghela07/karanvaghela07/output/github-snake-dark.svg"/>
+</picture>
+```
 
 ---
 
@@ -205,13 +270,7 @@ const karan = {
 
 <div align="center">
 
-### 💬 One Line About Me
-
-*"By day I annotate surgical videos for AI that saves lives. By night I build SpeakReady to help students land jobs. Same mission — make AI work for humans."*
-
-<br/>
-
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=Open+to+Data+Analyst+%7C+AI+Trainer+roles;DM+me+on+LinkedIn+to+connect!;Let's+build+something+together+🚀)](https://linkedin.com/in/karanvaghela07)
+*"I don't just analyze data — I build with it."*
 
 </div>
 
