@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="400px" style="object-fit:cover;"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="150px" style="object-fit:cover;"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Karan%20Vaghela&fontSize=65&color=0:0f0c29,50:302b63,100:24243e&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Vibe%20Coder%20%7C%20Ahmedabad%2C%20India&descSize=16&descAlignY=75&descColor=aaaaff"/>
@@ -73,34 +73,44 @@ Full-stack shipping with AI tools · MEAN stack · React + Supabase · LLM API i
 <div align="center">
 
 **Data & Analytics**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=python,r&theme=dark)](https://skillicons.dev)
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,r&theme=dark"/></a>
 &nbsp;
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="48"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="48"/></a>
 
-<br/>
+<br/><br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=pandas&theme=dark"/></a>
+&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=numpy&theme=dark"/></a>
+
+<br/><br/>
 
 **Databases & Query**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark)](https://skillicons.dev)
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"/></a>
 
-<br/>
+<br/><br/>
 
 **Dev & Deployment**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=react,nodejs,express,html,css,js,git,github,vscode,netlify&theme=dark)](https://skillicons.dev)
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,html,css,js,git,github,vscode,netlify,figma&theme=dark"/></a>
 
-<br/>
+<br/><br/>
 
 **AI & LLM Tools**
-<br/>
-![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-6E40C9?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<br/><br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-Groq%20API-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=white" height="48"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-Claude%20AI-6E40C9?style=flat-square&logo=anthropic&logoColor=white" height="48"/></a>
+&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=gemini&theme=dark"/></a>
 
 </div>
 
@@ -204,16 +214,6 @@ Full-stack shipping with AI tools · MEAN stack · React + Supabase · LLM API i
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karanvaghela07&theme=tokyonight&no-frame=false&margin-w=8&column=4"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -224,6 +224,7 @@ Full-stack shipping with AI tools · MEAN stack · React + Supabase · LLM API i
 </picture>
 </div>
 
+---
 
 ## 📈 Contribution Graph
 
