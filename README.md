@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="200px" style="object-fit:cover;"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="400px" style="object-fit:cover;"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Karan%20Vaghela&fontSize=65&color=0:0f0c29,50:302b63,100:24243e&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Vibe%20Coder%20%7C%20Ahmedabad%2C%20India&descSize=16&descAlignY=75&descColor=aaaaff"/>
