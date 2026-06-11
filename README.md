@@ -216,47 +216,11 @@ Full-stack shipping with AI tools · MEAN stack · React + Supabase · LLM API i
 
 ## 🐍 Contribution Snake
 
-> ⚠️ **Setup required:** Go to your repo → Actions → Enable workflows → Run the `Generate Snake` action once. After that it auto-updates daily.
-
-Add this file to `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: karanvaghela07
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then paste this where you want the snake to appear:
-
-```
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karanvaghela07/karanvaghela07/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karanvaghela07/karanvaghela07/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/karanvaghela07/karanvaghela07/output/github-snake-dark.svg"/>
 </picture>
-```
-
----
 
 ## 📈 Contribution Graph
 
